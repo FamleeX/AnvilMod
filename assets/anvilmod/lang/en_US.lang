@@ -1,0 +1,18 @@
+itemGroup.anvilmod=Anvil Mod
+
+tile.CopperOre.name=Copper Ore
+tile.CopperBlock.name=Block of Copper
+item.CopperIngot.name=Copper Ingot
+
+tile.TinOre.name=Tin Ore
+tile.TinBlock.name=Block of Tin
+item.TinIngot.name=Tin Ingot
+
+tile.Anvil.name=Anvil
+
+tile.ForgeIdle.name=Forge
+tile.ForgeActive.name=Forge
+container.forge=Forge
+
+tile.AlloyForgeIdle.name=Tier 2 Forge
+tile.AlloyForgeActive.name=Tier 2 Forge
